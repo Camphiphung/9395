@@ -1,6 +1,6 @@
 const textConfig = {
-  text1: "Hello!",
-  text2: "Đây là ",
+  text1: "Hi bae!",
+  text2: "Đây là điều sến súa mà em nói nè hehe ",
   text3: "Anh nói là chưa có được người khác tỏ tình bao giờ đúng không?",
   text4: "Vậy thì thử xem em bé làm điều này có làm anh vui không nhé?:v",
   text5: "Anh không thích bé đâu",
